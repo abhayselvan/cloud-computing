@@ -1,1 +1,11 @@
+Link to the application:
 https://api.slack.com/apps/A02LTA292H1
+   
+Link to the workspace:
+https://app.slack.com/client/T02LUTK6W2D/C02L1KE77JB
+   
+Request URL for slash command:
+https://153c-2601-646-8f81-aff0-2cdd-7e6b-6eba-71d0.ngrok.io/function/slack-request
+   
+Request URL for interactivity:
+https://153c-2601-646-8f81-aff0-2cdd-7e6b-6eba-71d0.ngrok.io/function/slack-interactive
